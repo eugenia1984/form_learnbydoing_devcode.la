@@ -1,0 +1,38 @@
+body{
+    font-family: Arial;
+    background-color: rgb(73, 153, 223, 0.5);
+}
+fieldset{
+    width: 280px;
+    margin: 0 auto;
+    border: none;
+    padding: 0 0 10px 0;
+    background-color: rgba(242, 230, 230, 0.981);
+}
+
+form{
+    background-color: rgba(242, 230, 230, 0.981);
+    width: 280px;
+    padding: 10px 10px 0 10px;
+    margin: 0 auto;
+    margin-bottom: 50px;;
+    border-radius: 10px;
+    box-shadow:  -15px 15px 7px #a79e9ebd;
+    
+}
+input{
+    border: none;
+    margin: 20px auto;
+    width: 280px;
+    background-color: rgb(216, 189, 79, 0.4);
+    padding: 15px 0;
+    text-align: center;
+    font-size: 18px;
+    border-radius: 10px;
+}
+
+input[type="submit"]{
+    background-color: rgb(33, 196, 24, 0.5);
+    color: rgba(7, 7, 7, 0.344);
+    cursor: pointer;
+}
