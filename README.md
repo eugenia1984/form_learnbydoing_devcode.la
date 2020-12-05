@@ -11,3 +11,14 @@ _**HTML 5** and **CSS 3**_
 
 ## You can see it here: 🎁
 _(https://codepen.io/eugenia1984/pen/poEgPQQ)_
+
+## Please: 🎁
+
+* Share this proyect with others 📢
+* Invite a beer 🍺 or a coffe ☕  to someone of the team. 
+* Thanks a lot 🤓.
+
+
+---
+⌨️ con ❤️ por [María Eugeia Costa](https://github.com/eugenia1984) 😊
+
