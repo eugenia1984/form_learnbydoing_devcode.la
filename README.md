@@ -3,7 +3,7 @@ _I learn by doing with **Devcode.la**, this time a : **form**_
 
 ## What I did 🚀
 _I create a short form, where the user must complete: <br/>
-Name, Last Name, Telefono and Email. <br/>
+Name, Last Name, Telephon and Email. <br/>
 I added a submit bottom and stylished a bit with CSS._
 
 ## Build it with 🛠️
@@ -15,10 +15,10 @@ _(https://codepen.io/eugenia1984/pen/poEgPQQ)_
 ## Please: 🎁
 
 * Share this proyect with others 📢
-* Invite a beer 🍺 or a coffe ☕  to someone of the team. 
+* Invite a beer 🍺 or a coffee ☕  to someone of the team. 
 * Thanks a lot 🤓.
 
 
 ---
-⌨️ con ❤️ por [María Eugeia Costa](https://github.com/eugenia1984) 😊
+⌨️ with ❤️ by [María Eugeia Costa](https://github.com/eugenia1984) 😊
 
